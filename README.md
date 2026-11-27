@@ -1,1 +1,1 @@
-# Modul-06-JavaScript
+# Modul06-JavaScript
